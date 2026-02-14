@@ -69,30 +69,26 @@ List the key features of your project:
 ### For Software:
 
 #### Screenshots (Add at least 3)
-
-![Screenshot1](Add screenshot 1 here with proper name)
+Landing page of VeriNews showing its features, how it work, with AI-powered fact-checking introduction and call-to-action button.
 *Add caption e<img width="1247" height="563" alt="Screenshot 2026-02-14 090828" src="https://github.com/user-attachments/assets/1f9aa144-cf8e-41b7-bd17-55483350036a" />
-xplaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+Users can paste a news article or claim to analyze its authenticity. The system provides a verdict (Real/Fake), confidence percentage, and detailed explanation.
+*Add caption<img width="1255" height="572" alt="Screenshot 2026-02-14 091934" src="https://github.com/user-attachments/assets/aa7c64d5-0edc-4995-9404-889147e16240" />                                                                                                                                            Community section where users can view posts, like, comment, and interact with others regarding fake news discussions.                                                                                                                                                             <img width="1224" height="565" alt="Screenshot 2026-02-14 092016" src="https://github.com/user-attachments/assets/dd8878d5-b8df-42cd-a06a-d13c2ff03d32" />
+Submit News is to Share verified information with the community i which others can insert the content,image and video.
+<img width="1251" height="568" alt="Screenshot 2026-02-14 110850" src="https://github.com/user-attachments/assets/50f5782c-34d7-4a53-bc7a-9a60a8c8354d" />
+Secure authentication page powered by Supabase allowing users to sign in using email and password(the profile)
+<img width="1230" height="494" alt="Screenshot 2026-02-14 092035" src="https://github.com/user-attachments/assets/02c59bd4-0a21-4502-8d2e-4d4c36dd8146" />
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+User dashboard displaying profile details, post activity, comments, and engagement statistics.
+<img width="1228" height="548" alt="Screenshot 2026-02-14 092051" src="https://github.com/user-attachments/assets/d1000710-ba00-4c9c-8bf6-daa6156d8617" />
 
-#### Diagrams
 
-**System Architecture:**
 
-![Architecture Diagram](docs/architecture.png)
-*Explain your system architecture - components, data flow, tech stack interaction*
+Workflow
 
-**Application Workflow:**
 
-![Workflow](docs/workflow.png)
-*Add caption explaining your workflow*
-
----
+-
+<img width="1024" height="1536" alt="5cc48207-8fee-442d-9af8-a288aff8097b" src="https://github.com/user-attachments/assets/a2e4817f-84f5-4373-bae7-b8272f287eed" />
 
 
 
@@ -102,7 +98,7 @@ xplaining what this shows*
 
 #### API Documentation
 
-**Base URL:** `https://api.yourproject.com`
+**Base URL:** https://github.com/Prarthana2006460/tink-her-hack-fake-real
 
 ##### Endpoints
 

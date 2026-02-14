@@ -19,9 +19,10 @@ VeriNews is an AI-powered platform that helps users verify the news quickly and 
 Check news, submit suspicious content, vote, comment, and explore trending stories—all in one trusted community.
 
 ### The Problem statement
-Misinformation spreads quickly online, making it hard to know which news is real. VeriNews helps users verify news using AI and community feedback, allowing them to stay informed and also share other news for collective fact-checking.
+Misinformation spreads rapidly online, making it difficult for people to know which news is real. Manual verification is time-consuming, and unreliable sources often confuse users, leading to distrust in media and false information circulation.
 
 ### The Solution
+VeriNews provides an AI-powered platform combined with community feedback to quickly verify news. Users can check news, share suspicious content, vote, comment, and explore trending stories, creating a trusted space for collaborative fact-checking.
 
 
 ---
@@ -36,20 +37,15 @@ Misinformation spreads quickly online, making it hard to know which news is real
 - Libraries used: [e.g., axios, pandas, JUnit]
 - Tools used: [e.g., VS Code, Git, Docker]
 
-**For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
 
----
 
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- User Authentication: Secure signup and login system using Supabase authentication.
+- Post Creation & Display: Users can create and view community posts related to fake news and other common  news.
+- Secure Database with RLS: Row Level Security ensures safe and controlled data acce
+- Like & Comment System: Users can like posts and add comments for discussion.
 
 ---
 
@@ -59,23 +55,14 @@ List the key features of your project:
 
 #### Installation
 ```bash
-[Installation commands - e.g., npm install, pip install -r requirements.txt]
+[Installation commands - npm install
 ```
 
 #### Run
 ```bash
-[Run commands - e.g., npm start, python app.py]
+[Run commands - npm run dev
 ```
 
-### For Hardware:
-
-#### Components Required
-[List all components needed with specifications]
-
-#### Circuit Setup
-[Explain how to set up the circuit]
-
----
 
 ## Project Documentation
 

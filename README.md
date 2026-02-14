@@ -12,7 +12,7 @@
 - Member 1: Prarthana MJ - LBS Institute of Technology for Women
   
 ### Hosted Project Link
-[mention your project hosted link here]
+http://localhost:5173/community
 
 ### Project Description
 VeriNews is an AI-powered platform that helps users verify the news quickly and easily.
@@ -93,30 +93,7 @@ List the key features of your project:
 
 ---
 
-### For Hardware:
 
-#### Schematic & Circuit
-
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-#### Build Photos
-
-![Team](Add photo of your team here)
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
----
 
 ## Additional Documentation
 

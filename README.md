@@ -32,10 +32,10 @@ VeriNews provides an AI-powered platform combined with community feedback to qui
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Languages used: JavaScript,HTML, CSS, React.js
+- Frameworks used: React
+- Libraries used: axios, supabase.js
+- Tools used: VS Code, Supabase (backend database and authentication platform),Github
 
 
 
@@ -71,7 +71,8 @@ List the key features of your project:
 #### Screenshots (Add at least 3)
 
 ![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+*Add caption e<img width="1247" height="563" alt="Screenshot 2026-02-14 090828" src="https://github.com/user-attachments/assets/1f9aa144-cf8e-41b7-bd17-55483350036a" />
+xplaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*

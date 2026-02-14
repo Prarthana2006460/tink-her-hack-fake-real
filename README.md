@@ -2,27 +2,27 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# VeriNews 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: Individual
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-
+- Member 1: Prarthana MJ - LBS Institute of Technology for Women
+  
 ### Hosted Project Link
 [mention your project hosted link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+VeriNews is an AI-powered platform that helps users verify the news quickly and easily.
+Check news, submit suspicious content, vote, comment, and explore trending stories—all in one trusted community.
 
 ### The Problem statement
-[What problem are you solving?]
+Misinformation spreads quickly online, making it hard to know which news is real. VeriNews helps users verify news using AI and community feedback, allowing them to stay informed and also share other news for collective fact-checking.
 
 ### The Solution
-[How are you solving it?]
+
 
 ---
 
